@@ -6,10 +6,10 @@ class BandList {
     constructor() {
 
         this.bands = [
-            new Band('Metallica'),
-            new Band('Héroes del Silencio'),
+            new Band('Coldplay'),
+            new Band('Green Day'),
             new Band('Bon Jovi'),
-            new Band('Breaking Benjamin'),
+            new Band('The Rolling Stones'),
         ];
 
     }
